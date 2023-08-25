@@ -1,0 +1,82 @@
+.site-header{
+    background-image: url("../images/mae-mu-1APtYqzNajA-unsplash.png") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 34px;
+    padding-bottom: 536px;
+}
+
+.header-box{
+    display: flex;
+    align-items: center;
+}
+
+.header-list{
+    display: flex;
+    color: #FFF;
+    font-family: Barlow;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px; /* 138.889% */
+    letter-spacing: -0.129px;
+    gap: 47px;
+    list-style: none;
+    margin-right: 47px;
+    margin-left: auto;
+}
+
+.header-text{
+    text-decoration: none;
+}
+
+.header-btn{
+    color: #24303E;
+    font-family: Fraunces 9pt Soft;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 25px; /* 166.667% */
+    letter-spacing: -0.107px;
+    text-transform: uppercase;
+    border-radius: 28px;
+    background: #FFF;
+    padding: 12px 12px 12px 12px;
+    border: none;  
+    cursor: pointer;
+}
+
+.header-btn:hover{
+    color: #FFF;
+    font-family: Fraunces 9pt Soft;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 25px; /* 166.667% */
+    letter-spacing: -0.107px;
+    text-transform: uppercase;
+    border-radius: 28px;
+    background: #Ffffff25;
+}
+
+.header-text{
+    color: #FFF;
+    font-family: Barlow;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px; /* 138.889% */
+    letter-spacing: -0.129px;
+}
+
+.header-text1{
+    color: #FFF;
+    text-align: center;
+    font-family: Fraunces 9pt Soft;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: 8.75px;
+    text-transform: uppercase;
+}

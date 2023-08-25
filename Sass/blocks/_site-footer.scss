@@ -1,0 +1,46 @@
+.site-footer {
+    padding-top: 72px;
+    background: #90D4C6;
+    padding-bottom: 72px;
+    
+}
+
+.footer-img{
+    display: flex;
+    align-items: center;
+    padding-left: 629px;
+}
+
+.footer-list{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    color: #458D7E;
+    font-family: Barlow;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px; /* 138.889% */
+    letter-spacing: -0.129px;
+    gap: 57px;
+    padding-left: 572px;
+    margin-top: 40px;
+}
+
+.footer-link1{
+    display: flex;
+    align-items: center;
+    padding-left: 637px;
+    margin-top: 80px;
+}
+
+.footer-text:hover{
+    color: #FFF;
+    font-family: Barlow;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px; /* 138.889% */
+    letter-spacing: -0.129px;
+    cursor: pointer;
+}
